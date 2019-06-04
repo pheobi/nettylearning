@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Client/Client.iml" filepath="$PROJECT_DIR$/Client/Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Common/Common.iml" filepath="$PROJECT_DIR$/Common/Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Server/Server.iml" filepath="$PROJECT_DIR$/Server/Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty3Hello.iml" filepath="$PROJECT_DIR$/netty3Hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty3HelloDemo.iml" filepath="$PROJECT_DIR$/netty3HelloDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty3about/netty3about.iml" filepath="$PROJECT_DIR$/netty3about/netty3about.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty5demo/netty5demo.iml" filepath="$PROJECT_DIR$/netty5demo/netty5demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/nettyHelloDemo.iml" filepath="$PROJECT_DIR$/demo/nettyHelloDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nettylearning.iml" filepath="$PROJECT_DIR$/nettylearning.iml" />
+    </modules>
+  </component>
+</project>
